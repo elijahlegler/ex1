@@ -10,11 +10,11 @@
 
   <ul>
   <?php
-  for ($x = 1, $x < 5, $x = $x++) {
+  for ($x = 1; $x < 5; $x++) {
     echo '<li>' . $myArray[$x] . '</li>';
   }
   ?>
-</ul>
+  </ul>
 
 
 <?php
