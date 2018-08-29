@@ -1,5 +1,5 @@
 <?php
-  include '/home/elegler/htdocs/CIT313/ex1/includes/header.inc.php';
+  include '/home/elegler/htdocs/CIT313/SP2018/ex1/includes/header.inc.php';
   ?>
 
   <body>
@@ -18,5 +18,5 @@
 
 
 <?php
-  include '/home/elegler/htdocs/CIT313/ex1/includes/footer.inc.php';
+  include '/home/elegler/htdocs/CIT313/SP2018/ex1/includes/footer.inc.php';
   ?>
